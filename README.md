@@ -12,7 +12,7 @@ The objective of this project is to design and implement a system capable of gen
 
 ## Dataset
 
-The dataset required for training and evaluation is sourced from [Google Drive](https://drive.google.com/drive/folders/1vYv5SmA6nu4PKB_5PIk6FoTCtyEWztKP?usp=sharing), consisting of:
+The dataset required for training and evaluation is sourced from [Google Drive for Test Data](https://drive.google.com/drive/folders/16HBFJQu_f_pG1P2hCmVfstRknHwuEmKc?usp=sharing) and [Google Drive For Train Data](https://drive.google.com/drive/folders/1FSbX4bnWUJ-f9iB9LebzGZRhjoS551eQ?usp=sharing), consisting of:
 - **Training Dataset**: Includes paired training images and labels, and unpaired training sketches.
 - **Testing Dataset**: Contains test images, labels, and unpaired test sketches for evaluation purposes.
 
