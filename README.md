@@ -1,4 +1,4 @@
-# Deep Learning Project: Generating Realistic Images from Sketches using CGAN
+# Deep Learning Project: Generation and Segmentation of Skin Lesion disease images(ISIC dataset) for Medical Imaging using Conditional GAN's
 
 ## Objective
 
