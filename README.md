@@ -55,6 +55,29 @@ The dataset required for training and evaluation is sourced from [Google Drive f
 - **Generated Images**: Visualizations and qualitative assessment.
 - **Quantitative Metrics**: Reported FID, IS, and accuracy scores.
 
+## Outputs:
+### Experiment-1:
+Original Image
+
+![download (1)](https://github.com/adarsh98261/Conditional_GAN/assets/142342806/88298816-28fe-448a-ad4a-25c99d23e555)
+
+Generated Image
+
+
+![download](https://github.com/adarsh98261/Conditional_GAN/assets/142342806/136c4c15-1269-41a6-8c1c-f6bcf802d36e)
+
+Generator Loss & Discriminator Loss
+
+
+![download (2)](https://github.com/adarsh98261/Conditional_GAN/assets/142342806/5c8a9e1f-3dc3-4613-bcbb-c51e00ab4773)
+
+### Experiment-2:
+Generated Images with Mask
+
+
+![download](https://github.com/adarsh98261/Conditional_GAN/assets/142342806/5b0c6c1b-373d-444b-a411-b31e40cb619e)
+
+
 ## Conclusion
 
 This project demonstrates the feasibility and effectiveness of using CGANs for generating realistic images from sketches. It highlights advancements in image synthesis through deep learning techniques.
