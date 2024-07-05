@@ -20,7 +20,7 @@ This project aims to utilize the ISIC 2016 dataset for segmenting skin disease c
 - **Label Conditioning**: Ensures generated images align with specified attributes by conditioning on provided labels.
 - **Sketch-to-Image Translation**: Mechanisms within the generator network translate input sketches into visually coherent images using deep learning techniques.
 
-The Sequence of Code Files:
+##The Sequence of Code Files:
 1. cGAN Implementation Code and alongwith the Training Loop code part.
 2. Classifier Evaluation Code part.
 3. The Report file containg all Outputs/Results and Explanations.
