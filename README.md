@@ -3,6 +3,16 @@
 ## Objective
 
 The objective of this project is to design and implement a system capable of generating realistic images from sketches utilizing a Conditional Generative Adversarial Network (CGAN). The system will take a sketch as input along with a corresponding label and produce high-quality images that accurately represent the characteristics associated with the provided label.
+This project aims to utilize the ISIC 2016 dataset for segmenting skin disease contours and generating images using Generative Adversarial Networks (GANs).
+
+## Prerequisites:
+
+- Python 3.x
+- PyTorch
+- OpenCV
+- ISIC 2016 dataset
+- CUDA (optional, for GPU acceleration)
+
 
 ## Key Components
 
@@ -45,3 +55,8 @@ The dataset required for training and evaluation is sourced from [Google Drive f
 This project demonstrates the feasibility and effectiveness of using CGANs for generating realistic images from sketches. It highlights advancements in image synthesis through deep learning techniques.
 
 For detailed code implementation, refer to the provided scripts and notebooks in this repository.
+## Acknowledgments:
+
+- ISIC 2016 dataset: [International Skin Imaging Collaboration (https://www.isicarchive.com/#!/topWithHeader/wideContentTop/main)
+- PyTorch: [PyTorch](https://pytorch.org/)
+- OpenCV: [OpenCV](https://opencv.org/)
